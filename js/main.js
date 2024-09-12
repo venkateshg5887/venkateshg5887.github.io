@@ -304,7 +304,7 @@
 
 		} , { offset: '95%' } );
 	};
-	// contentWayPoint();
+	contentWayPoint();
 
 
 	// navigation
