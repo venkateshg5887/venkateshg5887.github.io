@@ -3,10 +3,6 @@
  	easing: 'slide'
  });
 
-jQuery.fn.spectragram.accessData = {
-	accessToken: 'IGQWRPWjhVbTdsTlY3SklJbFh2T3N3WW1OdDJiUEZAyQzNOc0l6MWpJQVpwUWdPaVhQRkJJbHBoMG9HRVhjeWlZALWMxQVQ1cUNKZAkYtTVc5M3hfSGNhY3d6b1lYY0pHbkJ3RzVSUXczaXJpUQZDZD'
-};
-
 (function($) {
 
 	"use strict";
@@ -336,13 +332,13 @@ jQuery.fn.spectragram.accessData = {
 	OnePageNav();
 
 
-	$('.insta-gallery').spectragram({
-		size: 'medium',
-		wrapEachWith: "",
-		complete() {
-			contentWayPoint();
-		}
-	});
+	// $('.insta-gallery').spectragram({
+	// 	size: 'medium',
+	// 	wrapEachWith: "",
+	// 	complete() {
+	// 		contentWayPoint();
+	// 	}
+	// });
 
 
 	// magnific popup
