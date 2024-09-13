@@ -10016,6 +10016,10 @@ textarea.form-control {
   margin-top: 0;
 }
 
+.awake .navbar-nav .nav-item .nav-link{
+  color: #e78d2e;
+}
+
 @media (max-width: 991.98px) {
   .logo_square {
     display: none;
@@ -10032,6 +10036,14 @@ textarea.form-control {
   background: -webkit-linear-gradient(#d7307b, #fa8228);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.insta-video-block {
+  width: 90%;
+  box-shadow: 6px 6px 10px 4px #dcdcdc;
+  border-radius: 20px;
+  border: 0;
+  margin-bottom: 60px;
 }
 
 #ftco-loader {
